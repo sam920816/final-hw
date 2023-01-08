@@ -13,4 +13,12 @@
 
 # 學習方法
 
-硬著頭皮Google
+硬著頭皮Google  
+以app.js為例:  
+import A from B:從(網址)B引入A(物件)  
+render:使成為
+db:database的簡寫，資料庫  
+list:清單(條列式)  
+query:ask，詢問
+
+
