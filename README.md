@@ -57,7 +57,7 @@ For example, query and ask has same meaning, but it cannot be replaced by each o
 起初安裝deno時，我的電腦連powershell 都沒有，甚至連終端機是甚麼都不知道，這堂課多數雖然超出我能理解的程度，  
 但還是一定程度的開拓我的視野，而且如果有不清楚的地方也可以直接看課程回放，這使我更明白網路對整個社會的影響。  
 
-至於github & gitlab，應為某些功能是英文，且大二是我第一次接觸，故很多功能都不是很熟悉，排版不好請見諒  
+至於github & gitlab，因為某些功能是英文，且大二是我第一次接觸，故很多功能都不是很熟悉，排版不好請見諒  
 
 我發現有很多各種協定protocol，起先我都覺得名字好奇怪，難以理解，像是http，hypertext transform protocol，等協定。  
 理解後發現protocol就是用來整合成一個能夠使全世界都使用同一套的公用標準  
